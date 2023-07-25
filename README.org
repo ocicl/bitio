@@ -1,0 +1,10 @@
+* bitio
+
+A Common Lisp library for processing octet streams as bit streams.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/psilord/bitio.git   |
+| commit  | c295a66  |
+| systems | bitio |
+|---------+-------------------------------------------|
+
